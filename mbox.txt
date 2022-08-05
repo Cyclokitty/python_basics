@@ -1,0 +1,11 @@
+Hello,
+This is a file for Python to read and find words.
+Some words we may want to find include box, door, cat, dog, wolf, cereal, car, truck, sky, beach, water, apples, orange, gate, hollow, bench, seat, eraser, pen, boardwalk, abattoir, zinc, phone, blast, stars, loop, half.
+Monitor, block, space heater, garlic, face, nose, lack, boil.
+Witch, candy, look, play, flail, hunk, hulk, jam. Fruit, bar, bolt, driver, fleet, cask, loom, flat.
+Plate, glare, hop, switch, clasp, more, late, hope, faint.
+Help, grate, frisky, mountain, leap, joy, crate, freak, blue, nostril, keepsake, limit, blame, holler, born, freezer, can.
+Ace, batch, ignore, brake, break, phrase, peel, lop, culture, cold.
+Litmus, bean, rotate, camp, frustrate, gimbel, latrine, quart, lament.
+Roast, roust, return, slake, snake, stake.
+Kangaroo.
